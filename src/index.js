@@ -16,6 +16,7 @@ const App = () => {
       <input id= "name" type= "text"/>
       <button style = {{backgroundColor: "blue", color: "white"}}>{getButton()}</button>
     </div>
+    //
   );
 }
 
